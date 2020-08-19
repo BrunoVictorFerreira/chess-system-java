@@ -1,6 +1,6 @@
 # Chess System - Java
 
-Chess system, made in java for studying structure e syntax of language
+Chess system, made in java for studying structure and syntax of language
 
 This Project is not compiled!
 
